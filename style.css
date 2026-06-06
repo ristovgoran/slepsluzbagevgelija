@@ -146,7 +146,7 @@ ul.clean li:before{content:"•";position:absolute;left:0;color:var(--yellow);fo
   .btn-dark{display:none}
   .hero-grid,.cards-3,.cards-4,.gallery,.reviews,.coverage,.contact-grid,.footer-grid{grid-template-columns:1fr}
   .mini-cards{grid-template-columns:1fr}
-  .hero-media img{min-height:320px}
+  .hero-media{display:none}
   .section{padding:3.4rem 0}
   .cta-banner{flex-direction:column;align-items:flex-start}
   .gallery-item img,.gallery-featured img{height:230px}
